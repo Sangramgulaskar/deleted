@@ -533,6 +533,7 @@ p
 }
 
 @media only screen and (max-width:600px)
+    {
     .about-col2
     {
         text-align: center;
